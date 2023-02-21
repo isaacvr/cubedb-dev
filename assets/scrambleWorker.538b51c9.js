@@ -1,1 +1,1 @@
-function r(){return new Worker(""+new URL("scrambleWorker.64aac914.js",import.meta.url).href)}export{r as default};
+function e(){return new Worker("/cubedb-dev/assets/scrambleWorker.64aac914.js")}export{e as default};

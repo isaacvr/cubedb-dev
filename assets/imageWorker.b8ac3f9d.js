@@ -1,1 +1,1 @@
-function r(){return new Worker(""+new URL("imageWorker.a267ba87.js",import.meta.url).href)}export{r as default};
+function e(){return new Worker("/cubedb-dev/assets/imageWorker.a267ba87.js")}export{e as default};
